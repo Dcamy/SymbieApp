@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Operating System files
+.DS_Store
+
+# Python virtual environments
+venv/
+__pycache__/
+
+# Build output
+dist/
+out/
